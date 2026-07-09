@@ -1,0 +1,6 @@
+{
+  "name": "research-all",
+  "version": "0.1.0",
+  "description": "Merged Research plugin — combines the CWS research skills with the v1.0.2 dossier/research/synthesize skills.",
+  "author": { "name": "Alex McFarland (merged build)", "url": "https://alexmcfarland.ai" }
+}

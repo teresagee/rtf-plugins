@@ -1,0 +1,6 @@
+{
+  "name": "linkedin-all",
+  "version": "0.1.0",
+  "description": "Merged LinkedIn plugin — combines the CWS content skills (calendar, ideator, post, profile) with the v1.0.2 strategy skills (plan, posts, profile).",
+  "author": { "name": "Alex McFarland (merged build)", "url": "https://alexmcfarland.ai" }
+}

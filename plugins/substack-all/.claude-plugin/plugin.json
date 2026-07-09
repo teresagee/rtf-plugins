@@ -1,0 +1,6 @@
+{
+  "name": "substack-all",
+  "version": "0.1.0",
+  "description": "Merged Substack plugin — combines the CWS post-writing formats with the v1.0.2 publication setup skills.",
+  "author": { "name": "Alex McFarland (merged build)", "url": "https://alexmcfarland.ai" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "landing-pages-all",
+  "version": "0.1.0",
+  "description": "Merged Landing Pages plugin — combines the CWS page skills (opt-in, product, sales) with the v1.0.2 build-page and page-copy skills.",
+  "author": { "name": "Alex McFarland (merged build)", "url": "https://alexmcfarland.ai" }
+}

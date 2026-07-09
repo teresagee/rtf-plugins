@@ -1,0 +1,11 @@
+{
+  "name": "rtf-plugins",
+  "owner": { "name": "Teresa", "url": "https://github.com/teresagee" },
+  "plugins": [
+    { "name": "substack-all", "source": "./plugins/substack-all", "description": "Substack writing + setup, combined" },
+    { "name": "linkedin-all", "source": "./plugins/linkedin-all", "description": "LinkedIn content + strategy, combined" },
+    { "name": "research-all", "source": "./plugins/research-all", "description": "Research skills, combined" },
+    { "name": "landing-pages-all", "source": "./plugins/landing-pages-all", "description": "Landing page copy + build, combined" },
+    { "name": "digital-products-all", "source": "./plugins/digital-products-all", "description": "Digital products + ebooks, combined" }
+  ]
+}
