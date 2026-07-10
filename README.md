@@ -34,3 +34,12 @@ Commands are namespaced by plugin, e.g. `substack-all:tips`, `linkedin-all:linke
 - **substack-all** — `welcome-sequence` existed in both; kept the v1.0.2 version, dropped the cws one.
 - **landing-pages-all** — `build-page` existed in both; kept the v1.0.2 version, dropped the cws one.
 - **substack-all** keeps both `notes` (new) and `substack-note` (old) — similar but distinct.
+
+## Voice plugins (Part 2)
+
+```
+/plugin install voices@rtf-plugins
+/plugin install voice-creation@rtf-plugins
+```
+
+`voices` is Teresa's own voice profiles (self, storyteller, coach; aiinn and rtf brand voices pending). `voice-creation` is Alex McFarland's v1.2.4 republished with a flattened structure and repaired skill frontmatter, fixing the broken nested install.

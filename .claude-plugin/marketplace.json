@@ -6,6 +6,8 @@
     { "name": "linkedin-all", "source": "./plugins/linkedin-all", "description": "LinkedIn content + strategy, combined" },
     { "name": "research-all", "source": "./plugins/research-all", "description": "Research skills, combined" },
     { "name": "landing-pages-all", "source": "./plugins/landing-pages-all", "description": "Landing page copy + build, combined" },
-    { "name": "digital-products-all", "source": "./plugins/digital-products-all", "description": "Digital products + ebooks, combined" }
+    { "name": "digital-products-all", "source": "./plugins/digital-products-all", "description": "Digital products + ebooks, combined" },
+    { "name": "voices", "source": "./plugins/voices", "description": "Teresa's voice profiles + brand voices" },
+    { "name": "voice-creation", "source": "./plugins/voice-creation", "description": "Create, import, and audit voice profiles (fixed)" }
   ]
 }

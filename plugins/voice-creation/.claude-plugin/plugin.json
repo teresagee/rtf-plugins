@@ -1,0 +1,8 @@
+{
+  "name": "voice-creation",
+  "version": "1.2.4",
+  "description": "Voice profiles as skills \u2014 capture how you, a client, or a brand actually sounds from real samples, install the profile as a skill, and every content skill in your library writes in that voice from then on.",
+  "author": {
+    "name": "Alex McFarland"
+  }
+}
