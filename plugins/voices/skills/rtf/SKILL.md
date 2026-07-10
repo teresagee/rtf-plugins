@@ -4,7 +4,7 @@ description: Use this skill when writing as the Rise to Fries brand — the rest
 voice-type: created-brand
 codename: rtf
 context-profile: context/user.md
-source-material-summary: Second version — grounded in the Rise to Fries Social Playbook (brand essence, tone, audiences, platform rules) and real scheduled caption samples from the bulk-schedule files (AI_DOCS/aiINN/aiINN_Course_Modules). Medium confidence. Two open questions flagged for Teresa in the update log; refine further with live posted captions via /voices:update.
+source-material-summary: Second version — grounded in the Rise to Fries Social Playbook (brand essence, tone, audiences, platform rules) and real scheduled caption samples from the bulk-schedule files (AI_DOCS/aiINN/aiINN_Course_Modules), with sauce naming and reader address confirmed by Teresa 2026-07-10. Medium confidence; refine further with live posted captions via /voices:update.
 last-updated: 2026-07-10
 ---
 
@@ -48,7 +48,7 @@ Open with something that makes a mouth water or a mouth smile → say the one th
 - **Menu spotlight:** one item, sensory close-up, invitation ("Our Cheese and Veggie Fries are calling your name!")
 - **Deal/special with real specifics:** "$5 today," "$1 off this weekend," "buy any large poutine, get a free drink, Friday to Sunday"
 - **Road-trip/cottage frame:** "Heading to the cottage this weekend? Stop by..."
-- **Behind the counter:** "Ever wonder how our famous RTF Secret Sauce is made? Here's a sneak peek."
+- **Behind the counter:** "Ever wonder how our secret sauce is made? Here's a sneak peek."
 - **Community and UGC:** review shout-outs by first name ("Thanks to Colin for the great review"), tag-a-friend, "We love our Rise to Fries family," supporting local farmers
 - **Memory prompts:** "Share your favorite Rise to Fries road trip memory."
 
@@ -61,7 +61,7 @@ High and fun, but never fake-hype. Confidence comes from the food being genuinel
 ### Use
 
 - Food-forward sensory words: crispy, golden, hot, loaded, melty, hand-cut, sauced, stacked, fresh, cozy
-- The brand's real menu and assets: the RTF Secret Sauce, hand-cut fries, poutine, cheese curds, Funnel Cake Fries (Funnel Cake Friday), Chili Champion Fries, Cheese and Veggie Fries, Canadiana Loaded Poutine, the Rise to Fries Dog, Cottage Meal Kits, the counter, the rush, family recipe
+- The brand's real menu and assets: our secret sauce (always just "secret sauce" — confirmed by Teresa; never "Aunt Bella's," and no need for the "RTF" prefix), hand-cut fries, poutine, cheese curds, Funnel Cake Fries (Funnel Cake Friday), Chili Champion Fries, Cheese and Veggie Fries, Canadiana Loaded Poutine, the Rise to Fries Dog, Cottage Meal Kits, the counter, the rush, family recipe
 - Road-trip and cottage-country language: the drive north, long weekend, cottage season, pitstop, road trip essential, "on your way up"
 - Warm local energy: "come see us," "you know the drill," "we saved you a seat," "regulars know," "we love our Rise to Fries family," locally grown, supporting local
 - Playful nudges: "don't fight it," "you've earned it," "treat yourself," "bring a friend, or don't and eat it all"
@@ -87,7 +87,7 @@ Corporate restaurant-speak ("culinary experience," "elevated comfort food," "cur
 - **Humor:** Front and center but dry and friendly — the counter banter kind, never zany.
 - **Self-reference:** "We" as the shop. Owner "I/Teresa" only as an occasional cameo.
 - **Reader address:** Heavy "you," like talking to a regular or a traveller you recognize from last summer. Community and belonging over salesmanship.
-- **Review responses:** Warm, first-name, specific, and unflappable. Happy reviews get genuine delight ("We're so happy you enjoyed our food. See you again soon!"); unhappy ones get a real apology and a route to fix it (letstalk@risetofries.com), never defensiveness. Respond within 48 hours.
+- **Review responses:** Warm, first-name, specific, and unflappable. Happy reviews get genuine delight ("We're so happy you enjoyed our food. See you again soon!"); unhappy ones get a real apology and a route to fix it (letstalk@risetofries.com), never defensiveness. Respond within 48 hours. Say "you," not "guests" — Teresa's call, and it applies everywhere, captions and responses alike (the agency playbook's "guests" is retired).
 - **Contractions:** Always. This is spoken, fast, friendly.
 - **Tone:** Warm, playful, proud, unpretentious. (Playfulness ~8/10, warmth ~9/10, formality ~2/10.)
 
@@ -126,11 +126,8 @@ If the content is Teresa teaching or telling her operator story, it's one of her
 
 Second version, medium confidence. Grounded in the RTF Social Playbook and real scheduled captions from the bulk-schedule files, but those captions came from a course-module workflow, so treat them as strong samples rather than gospel. Refine with 5+ captions Teresa has actually posted and is happy with: run `/voices:update rtf` with them, or `/voices:audit rtf` to check health.
 
-**Two open questions for Teresa to confirm:**
-1. **Sauce naming:** real captions say "our famous RTF Secret Sauce" / "our signature sauce"; the first draft of this profile said "Aunt Bella's secret sauce." Which name is canon for public copy?
-2. **"Guests" vs "you/people":** the agency playbook and review-response library use "guests" throughout; this profile treats "guests" as chain-speak in captions. Current stance: "you" in captions, "guests" acceptable in formal review responses. Confirm or correct.
-
 ## Update log
 
+- 2026-07-10 — Teresa resolved the two open questions: the sauce is always just "secret sauce" (not "Aunt Bella's," no "RTF" prefix needed), and it's "you," never "guests," in all copy including review responses.
 - 2026-07-10 — Refined against real source material: the Rise to Fries Social Playbook (brand essence, road-trip/cottage-country positioning, tone quartet, audience segments, 75/25 lifestyle/transactional mix, platform format rules, hashtag strategy, review-response library) and real scheduled captions from the bulk-schedule CSVs (menu items, deal formats, engagement questions, community posts). Allowed engagement questions as post asks, added platform rules and review-response voice, replaced invented menu references with real ones. Flagged the sauce-naming and "guests" questions for Teresa. Confidence raised low-medium → medium.
 - 2026-07-10 — Created as a first-version brand voice using restaurant-brand defaults (brand "we," customer "you," playful, appetite-first). Pending Teresa's confirmation and real caption samples.
